@@ -1,6 +1,6 @@
 var vacationType = prompt("Hi There! What kind of trip would you be interested in? musical, tropical, or adventurous?");
 var groupSize = prompt("Good choice. How many people in your group all together?");
-let travel = "";
+let travelby = "";
 let destination = "";
 
 
